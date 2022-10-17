@@ -4,6 +4,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiroki-kiyono&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiroki-kiyono&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=hiroki-kiyono&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Tire 1:</h4>
